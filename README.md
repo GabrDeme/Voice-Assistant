@@ -26,12 +26,12 @@ The project utilizes the following libraries and tools:
 
 ## Features
 
--**Voice Recording**: Records audio input from the user's microphone.
+- **Voice Recording**: Records audio input from the user's microphone.
 
--**Audio Transcription**: Transcribes the recorded audio to text using the Faster Whisper library.
+- **Audio Transcription**: Transcribes the recorded audio to text using the Faster Whisper library.
 
--**LLM Interaction**: Sends the transcription to the ChatGroq LLM and retrieves responses.
+- **LLM Interaction**: Sends the transcription to the ChatGroq LLM and retrieves responses.
 
--**Text-to-Speech**: Converts the LLM's responses into audio output and plays it.
+- **Text-to-Speech**: Converts the LLM's responses into audio output and plays it.
 
--**Keyboard Interaction**: Controlled via simple keyboard inputs (e.g., 'r' to record/stop).
+- **Keyboard Interaction**: Controlled via simple keyboard inputs (e.g., 'r' to record/stop).
